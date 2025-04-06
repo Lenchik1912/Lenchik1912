@@ -19,7 +19,7 @@ Currently, I'm expanding my creative boundaries by diving into the **tech world*
 
 ## What You'll Find Here
 
-This repository serves as a **landing space** for my creative tech journey. Expect to find:
+This repository serves as a **landing space** for my journey. Expect to find:
 
 - **Design experiments** blending code and aesthetics  
 - **Learning logs** as I explore new technologies  
@@ -30,9 +30,9 @@ This repository serves as a **landing space** for my creative tech journey. Expe
 
 ## My Creative Tech Stack
 
-| Tools & Software      | Languages & Frameworks      |
+| Tools & Software     | Languages & Frameworks      |
 |-----------------------|------------------------------|
-| Blender, 3ds Max      | Python, HTML/CSS, JavaScript |
+| Blender, 3ds Max      | HTML/CSS                     |
 | Adobe Suite           | React, Three.js              |
 | SketchUp, AutoCAD     | Tailwind, Figma              |
 
@@ -42,9 +42,4 @@ This repository serves as a **landing space** for my creative tech journey. Expe
 
 I’m always open to collaborations, feedback, or a chat about design, tech, or the magic in-between.
 
-- **Portfolio:** _Coming Soon_  
-- **LinkedIn:** [linkedin.com/in/elena](#)  
-- **Instagram:** [@elena.designs](#)  
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-
---
+- **Portfolio:** [https://www.behance.net/littledamo8063?fbclid=PAY2xjawJfMPBleHRuA2FlbQIxMQABp8kLiVOOnx9BjRfv9pLsy2hs6sfD5u1B3hDrm3qM22qorjb2a4DTpBFdcBnT_aem_0aaQZhzoxWpS4b_lOel_0Q]
